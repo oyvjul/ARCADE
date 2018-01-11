@@ -1,0 +1,1466 @@
+<mesh>
+  <submeshes>
+    <submesh material="Material.7" usesharedvertices="false">
+      <faces count="1302">
+        <face v1="0" v2="1" v3="2"></face>
+        <face v1="2" v2="3" v3="0"></face>
+        <face v1="4" v2="5" v3="2"></face>
+        <face v1="2" v2="1" v3="4"></face>
+        <face v1="6" v2="7" v3="2"></face>
+        <face v1="2" v2="5" v3="6"></face>
+        <face v1="8" v2="3" v3="2"></face>
+        <face v1="2" v2="7" v3="8"></face>
+        <face v1="6" v2="9" v3="10"></face>
+        <face v1="10" v2="7" v3="6"></face>
+        <face v1="11" v2="12" v3="10"></face>
+        <face v1="10" v2="9" v3="11"></face>
+        <face v1="13" v2="14" v3="10"></face>
+        <face v1="10" v2="12" v3="13"></face>
+        <face v1="8" v2="7" v3="10"></face>
+        <face v1="10" v2="14" v3="8"></face>
+        <face v1="13" v2="15" v3="16"></face>
+        <face v1="16" v2="14" v3="13"></face>
+        <face v1="17" v2="18" v3="16"></face>
+        <face v1="16" v2="15" v3="17"></face>
+        <face v1="19" v2="20" v3="16"></face>
+        <face v1="16" v2="18" v3="19"></face>
+        <face v1="8" v2="14" v3="16"></face>
+        <face v1="16" v2="20" v3="8"></face>
+        <face v1="19" v2="21" v3="22"></face>
+        <face v1="22" v2="20" v3="19"></face>
+        <face v1="23" v2="24" v3="22"></face>
+        <face v1="22" v2="21" v3="23"></face>
+        <face v1="0" v2="3" v3="22"></face>
+        <face v1="22" v2="24" v3="0"></face>
+        <face v1="8" v2="20" v3="22"></face>
+        <face v1="22" v2="3" v3="8"></face>
+        <face v1="13" v2="12" v3="25"></face>
+        <face v1="25" v2="26" v3="13"></face>
+        <face v1="11" v2="27" v3="25"></face>
+        <face v1="25" v2="12" v3="11"></face>
+        <face v1="28" v2="29" v3="25"></face>
+        <face v1="25" v2="27" v3="28"></face>
+        <face v1="30" v2="26" v3="25"></face>
+        <face v1="25" v2="29" v3="30"></face>
+        <face v1="28" v2="31" v3="32"></face>
+        <face v1="32" v2="29" v3="28"></face>
+        <face v1="33" v2="34" v3="32"></face>
+        <face v1="32" v2="31" v3="33"></face>
+        <face v1="32" v2="34" v3="35"></face>
+        <face v1="30" v2="29" v3="32"></face>
+        <face v1="32" v2="36" v3="30"></face>
+        <face v1="35" v2="37" v3="38"></face>
+        <face v1="39" v2="40" v3="38"></face>
+        <face v1="38" v2="37" v3="39"></face>
+        <face v1="41" v2="42" v3="38"></face>
+        <face v1="38" v2="40" v3="41"></face>
+        <face v1="30" v2="36" v3="38"></face>
+        <face v1="38" v2="42" v3="30"></face>
+        <face v1="41" v2="43" v3="44"></face>
+        <face v1="44" v2="42" v3="41"></face>
+        <face v1="17" v2="15" v3="44"></face>
+        <face v1="44" v2="43" v3="17"></face>
+        <face v1="13" v2="26" v3="44"></face>
+        <face v1="44" v2="15" v3="13"></face>
+        <face v1="30" v2="42" v3="44"></face>
+        <face v1="44" v2="26" v3="30"></face>
+        <face v1="45" v2="46" v3="47"></face>
+        <face v1="47" v2="48" v3="45"></face>
+        <face v1="49" v2="50" v3="47"></face>
+        <face v1="47" v2="46" v3="49"></face>
+        <face v1="51" v2="52" v3="47"></face>
+        <face v1="47" v2="50" v3="51"></face>
+        <face v1="53" v2="48" v3="47"></face>
+        <face v1="47" v2="52" v3="53"></face>
+        <face v1="51" v2="54" v3="55"></face>
+        <face v1="55" v2="52" v3="51"></face>
+        <face v1="56" v2="57" v3="55"></face>
+        <face v1="55" v2="54" v3="56"></face>
+        <face v1="58" v2="59" v3="55"></face>
+        <face v1="55" v2="57" v3="58"></face>
+        <face v1="53" v2="52" v3="55"></face>
+        <face v1="55" v2="59" v3="53"></face>
+        <face v1="58" v2="60" v3="61"></face>
+        <face v1="61" v2="59" v3="58"></face>
+        <face v1="39" v2="37" v3="61"></face>
+        <face v1="61" v2="60" v3="39"></face>
+        <face v1="35" v2="62" v3="61"></face>
+        <face v1="61" v2="37" v3="35"></face>
+        <face v1="53" v2="59" v3="61"></face>
+        <face v1="61" v2="62" v3="53"></face>
+        <face v1="35" v2="34" v3="63"></face>
+        <face v1="63" v2="62" v3="35"></face>
+        <face v1="33" v2="64" v3="63"></face>
+        <face v1="63" v2="34" v3="33"></face>
+        <face v1="45" v2="48" v3="63"></face>
+        <face v1="63" v2="64" v3="45"></face>
+        <face v1="53" v2="62" v3="63"></face>
+        <face v1="63" v2="48" v3="53"></face>
+        <face v1="65" v2="66" v3="67"></face>
+        <face v1="67" v2="68" v3="65"></face>
+        <face v1="4" v2="1" v3="67"></face>
+        <face v1="67" v2="66" v3="4"></face>
+        <face v1="0" v2="69" v3="67"></face>
+        <face v1="67" v2="1" v3="0"></face>
+        <face v1="70" v2="68" v3="67"></face>
+        <face v1="0" v2="24" v3="71"></face>
+        <face v1="71" v2="69" v3="0"></face>
+        <face v1="23" v2="72" v3="71"></face>
+        <face v1="71" v2="24" v3="23"></face>
+        <face v1="71" v2="72" v3="73"></face>
+        <face v1="73" v2="74" v3="75"></face>
+        <face v1="75" v2="76" v3="73"></face>
+        <face v1="56" v2="54" v3="75"></face>
+        <face v1="75" v2="74" v3="56"></face>
+        <face v1="51" v2="77" v3="75"></face>
+        <face v1="75" v2="54" v3="51"></face>
+        <face v1="70" v2="76" v3="75"></face>
+        <face v1="75" v2="77" v3="70"></face>
+        <face v1="51" v2="50" v3="78"></face>
+        <face v1="78" v2="77" v3="51"></face>
+        <face v1="49" v2="79" v3="78"></face>
+        <face v1="78" v2="50" v3="49"></face>
+        <face v1="65" v2="68" v3="78"></face>
+        <face v1="78" v2="79" v3="65"></face>
+        <face v1="70" v2="77" v3="78"></face>
+        <face v1="78" v2="68" v3="70"></face>
+        <face v1="80" v2="81" v3="82"></face>
+        <face v1="82" v2="83" v3="80"></face>
+        <face v1="84" v2="83" v3="82"></face>
+        <face v1="82" v2="85" v3="84"></face>
+        <face v1="86" v2="87" v3="88"></face>
+        <face v1="88" v2="89" v3="86"></face>
+        <face v1="84" v2="85" v3="88"></face>
+        <face v1="88" v2="87" v3="84"></face>
+        <face v1="86" v2="90" v3="91"></face>
+        <face v1="91" v2="87" v3="86"></face>
+        <face v1="11" v2="9" v3="91"></face>
+        <face v1="91" v2="90" v3="11"></face>
+        <face v1="6" v2="92" v3="91"></face>
+        <face v1="91" v2="9" v3="6"></face>
+        <face v1="84" v2="87" v3="91"></face>
+        <face v1="91" v2="92" v3="84"></face>
+        <face v1="6" v2="5" v3="93"></face>
+        <face v1="93" v2="92" v3="6"></face>
+        <face v1="4" v2="94" v3="93"></face>
+        <face v1="93" v2="5" v3="4"></face>
+        <face v1="80" v2="83" v3="93"></face>
+        <face v1="93" v2="94" v3="80"></face>
+        <face v1="84" v2="92" v3="93"></face>
+        <face v1="93" v2="83" v3="84"></face>
+        <face v1="86" v2="89" v3="95"></face>
+        <face v1="95" v2="96" v3="86"></face>
+        <face v1="97" v2="96" v3="95"></face>
+        <face v1="95" v2="98" v3="97"></face>
+        <face v1="99" v2="100" v3="101"></face>
+        <face v1="101" v2="102" v3="99"></face>
+        <face v1="97" v2="98" v3="101"></face>
+        <face v1="101" v2="100" v3="97"></face>
+        <face v1="99" v2="103" v3="104"></face>
+        <face v1="104" v2="100" v3="99"></face>
+        <face v1="33" v2="31" v3="104"></face>
+        <face v1="104" v2="103" v3="33"></face>
+        <face v1="28" v2="105" v3="104"></face>
+        <face v1="104" v2="31" v3="28"></face>
+        <face v1="97" v2="100" v3="104"></face>
+        <face v1="104" v2="105" v3="97"></face>
+        <face v1="28" v2="27" v3="106"></face>
+        <face v1="106" v2="105" v3="28"></face>
+        <face v1="11" v2="90" v3="106"></face>
+        <face v1="106" v2="27" v3="11"></face>
+        <face v1="86" v2="96" v3="106"></face>
+        <face v1="106" v2="90" v3="86"></face>
+        <face v1="97" v2="105" v3="106"></face>
+        <face v1="106" v2="96" v3="97"></face>
+        <face v1="99" v2="102" v3="107"></face>
+        <face v1="107" v2="108" v3="99"></face>
+        <face v1="109" v2="108" v3="107"></face>
+        <face v1="107" v2="110" v3="109"></face>
+        <face v1="111" v2="112" v3="113"></face>
+        <face v1="113" v2="114" v3="111"></face>
+        <face v1="109" v2="110" v3="113"></face>
+        <face v1="113" v2="112" v3="109"></face>
+        <face v1="111" v2="115" v3="116"></face>
+        <face v1="116" v2="112" v3="111"></face>
+        <face v1="49" v2="46" v3="116"></face>
+        <face v1="116" v2="115" v3="49"></face>
+        <face v1="45" v2="117" v3="116"></face>
+        <face v1="116" v2="46" v3="45"></face>
+        <face v1="109" v2="112" v3="116"></face>
+        <face v1="116" v2="117" v3="109"></face>
+        <face v1="45" v2="64" v3="118"></face>
+        <face v1="118" v2="117" v3="45"></face>
+        <face v1="33" v2="103" v3="118"></face>
+        <face v1="118" v2="64" v3="33"></face>
+        <face v1="99" v2="108" v3="118"></face>
+        <face v1="118" v2="103" v3="99"></face>
+        <face v1="109" v2="117" v3="118"></face>
+        <face v1="118" v2="108" v3="109"></face>
+        <face v1="111" v2="114" v3="119"></face>
+        <face v1="119" v2="120" v3="111"></face>
+        <face v1="121" v2="120" v3="119"></face>
+        <face v1="119" v2="122" v3="121"></face>
+        <face v1="80" v2="123" v3="124"></face>
+        <face v1="124" v2="81" v3="80"></face>
+        <face v1="121" v2="122" v3="124"></face>
+        <face v1="124" v2="123" v3="121"></face>
+        <face v1="80" v2="94" v3="125"></face>
+        <face v1="125" v2="123" v3="80"></face>
+        <face v1="4" v2="66" v3="125"></face>
+        <face v1="125" v2="94" v3="4"></face>
+        <face v1="65" v2="126" v3="125"></face>
+        <face v1="125" v2="66" v3="65"></face>
+        <face v1="121" v2="123" v3="125"></face>
+        <face v1="125" v2="126" v3="121"></face>
+        <face v1="65" v2="79" v3="127"></face>
+        <face v1="127" v2="126" v3="65"></face>
+        <face v1="49" v2="115" v3="127"></face>
+        <face v1="127" v2="79" v3="49"></face>
+        <face v1="111" v2="120" v3="127"></face>
+        <face v1="127" v2="115" v3="111"></face>
+        <face v1="121" v2="126" v3="127"></face>
+        <face v1="127" v2="120" v3="121"></face>
+        <face v1="128" v2="129" v3="130"></face>
+        <face v1="130" v2="131" v3="128"></face>
+        <face v1="132" v2="131" v3="130"></face>
+        <face v1="130" v2="133" v3="132"></face>
+        <face v1="134" v2="133" v3="130"></face>
+        <face v1="130" v2="135" v3="134"></face>
+        <face v1="136" v2="135" v3="130"></face>
+        <face v1="130" v2="129" v3="136"></face>
+        <face v1="134" v2="135" v3="137"></face>
+        <face v1="137" v2="138" v3="134"></face>
+        <face v1="139" v2="138" v3="137"></face>
+        <face v1="137" v2="140" v3="139"></face>
+        <face v1="141" v2="140" v3="137"></face>
+        <face v1="137" v2="142" v3="141"></face>
+        <face v1="136" v2="142" v3="137"></face>
+        <face v1="137" v2="135" v3="136"></face>
+        <face v1="141" v2="142" v3="143"></face>
+        <face v1="143" v2="144" v3="141"></face>
+        <face v1="145" v2="144" v3="143"></face>
+        <face v1="143" v2="146" v3="145"></face>
+        <face v1="147" v2="146" v3="143"></face>
+        <face v1="143" v2="148" v3="147"></face>
+        <face v1="136" v2="148" v3="143"></face>
+        <face v1="143" v2="142" v3="136"></face>
+        <face v1="147" v2="148" v3="149"></face>
+        <face v1="149" v2="150" v3="147"></face>
+        <face v1="151" v2="150" v3="149"></face>
+        <face v1="149" v2="152" v3="151"></face>
+        <face v1="128" v2="152" v3="149"></face>
+        <face v1="149" v2="129" v3="128"></face>
+        <face v1="136" v2="129" v3="149"></face>
+        <face v1="149" v2="148" v3="136"></face>
+        <face v1="141" v2="153" v3="154"></face>
+        <face v1="154" v2="140" v3="141"></face>
+        <face v1="139" v2="140" v3="154"></face>
+        <face v1="154" v2="155" v3="139"></face>
+        <face v1="156" v2="155" v3="154"></face>
+        <face v1="154" v2="157" v3="156"></face>
+        <face v1="158" v2="157" v3="154"></face>
+        <face v1="154" v2="153" v3="158"></face>
+        <face v1="156" v2="157" v3="159"></face>
+        <face v1="159" v2="160" v3="156"></face>
+        <face v1="161" v2="160" v3="159"></face>
+        <face v1="159" v2="162" v3="161"></face>
+        <face v1="163" v2="162" v3="159"></face>
+        <face v1="159" v2="164" v3="163"></face>
+        <face v1="158" v2="164" v3="159"></face>
+        <face v1="159" v2="157" v3="158"></face>
+        <face v1="163" v2="164" v3="165"></face>
+        <face v1="165" v2="166" v3="163"></face>
+        <face v1="167" v2="166" v3="165"></face>
+        <face v1="165" v2="168" v3="167"></face>
+        <face v1="169" v2="168" v3="165"></face>
+        <face v1="165" v2="170" v3="169"></face>
+        <face v1="158" v2="170" v3="165"></face>
+        <face v1="165" v2="164" v3="158"></face>
+        <face v1="169" v2="170" v3="171"></face>
+        <face v1="171" v2="172" v3="169"></face>
+        <face v1="145" v2="172" v3="171"></face>
+        <face v1="171" v2="144" v3="145"></face>
+        <face v1="141" v2="144" v3="171"></face>
+        <face v1="171" v2="153" v3="141"></face>
+        <face v1="158" v2="153" v3="171"></face>
+        <face v1="171" v2="170" v3="158"></face>
+        <face v1="173" v2="174" v3="175"></face>
+        <face v1="175" v2="176" v3="173"></face>
+        <face v1="177" v2="176" v3="175"></face>
+        <face v1="175" v2="178" v3="177"></face>
+        <face v1="179" v2="178" v3="175"></face>
+        <face v1="175" v2="180" v3="179"></face>
+        <face v1="181" v2="180" v3="175"></face>
+        <face v1="175" v2="174" v3="181"></face>
+        <face v1="179" v2="180" v3="182"></face>
+        <face v1="182" v2="183" v3="179"></face>
+        <face v1="184" v2="183" v3="182"></face>
+        <face v1="182" v2="185" v3="184"></face>
+        <face v1="186" v2="185" v3="182"></face>
+        <face v1="182" v2="187" v3="186"></face>
+        <face v1="181" v2="187" v3="182"></face>
+        <face v1="182" v2="180" v3="181"></face>
+        <face v1="186" v2="187" v3="188"></face>
+        <face v1="188" v2="189" v3="186"></face>
+        <face v1="167" v2="189" v3="188"></face>
+        <face v1="188" v2="166" v3="167"></face>
+        <face v1="163" v2="166" v3="188"></face>
+        <face v1="188" v2="190" v3="163"></face>
+        <face v1="181" v2="190" v3="188"></face>
+        <face v1="188" v2="187" v3="181"></face>
+        <face v1="163" v2="190" v3="191"></face>
+        <face v1="191" v2="162" v3="163"></face>
+        <face v1="161" v2="162" v3="191"></face>
+        <face v1="191" v2="192" v3="161"></face>
+        <face v1="173" v2="192" v3="191"></face>
+        <face v1="191" v2="174" v3="173"></face>
+        <face v1="181" v2="174" v3="191"></face>
+        <face v1="191" v2="190" v3="181"></face>
+        <face v1="193" v2="194" v3="195"></face>
+        <face v1="195" v2="196" v3="193"></face>
+        <face v1="132" v2="196" v3="195"></face>
+        <face v1="195" v2="131" v3="132"></face>
+        <face v1="128" v2="131" v3="195"></face>
+        <face v1="195" v2="197" v3="128"></face>
+        <face v1="198" v2="197" v3="195"></face>
+        <face v1="195" v2="194" v3="198"></face>
+        <face v1="128" v2="197" v3="199"></face>
+        <face v1="199" v2="152" v3="128"></face>
+        <face v1="151" v2="152" v3="199"></face>
+        <face v1="199" v2="200" v3="151"></face>
+        <face v1="201" v2="200" v3="199"></face>
+        <face v1="198" v2="202" v3="199"></face>
+        <face v1="199" v2="197" v3="198"></face>
+        <face v1="203" v2="183" v3="184"></face>
+        <face v1="179" v2="183" v3="203"></face>
+        <face v1="203" v2="204" v3="179"></face>
+        <face v1="198" v2="204" v3="203"></face>
+        <face v1="203" v2="202" v3="198"></face>
+        <face v1="179" v2="204" v3="205"></face>
+        <face v1="205" v2="178" v3="179"></face>
+        <face v1="177" v2="178" v3="205"></face>
+        <face v1="205" v2="206" v3="177"></face>
+        <face v1="193" v2="206" v3="205"></face>
+        <face v1="205" v2="194" v3="193"></face>
+        <face v1="198" v2="194" v3="205"></face>
+        <face v1="205" v2="204" v3="198"></face>
+        <face v1="207" v2="208" v3="209"></face>
+        <face v1="210" v2="211" v3="207"></face>
+        <face v1="212" v2="213" v3="214"></face>
+        <face v1="214" v2="215" v3="212"></face>
+        <face v1="210" v2="215" v3="214"></face>
+        <face v1="214" v2="211" v3="210"></face>
+        <face v1="212" v2="215" v3="216"></face>
+        <face v1="216" v2="217" v3="212"></face>
+        <face v1="139" v2="217" v3="216"></face>
+        <face v1="216" v2="138" v3="139"></face>
+        <face v1="134" v2="138" v3="216"></face>
+        <face v1="216" v2="218" v3="134"></face>
+        <face v1="210" v2="218" v3="216"></face>
+        <face v1="216" v2="215" v3="210"></face>
+        <face v1="134" v2="218" v3="219"></face>
+        <face v1="219" v2="133" v3="134"></face>
+        <face v1="132" v2="133" v3="219"></face>
+        <face v1="209" v2="220" v3="219"></face>
+        <face v1="219" v2="221" v3="209"></face>
+        <face v1="210" v2="221" v3="219"></face>
+        <face v1="219" v2="218" v3="210"></face>
+        <face v1="212" v2="222" v3="223"></face>
+        <face v1="223" v2="213" v3="212"></face>
+        <face v1="224" v2="225" v3="223"></face>
+        <face v1="223" v2="222" v3="224"></face>
+        <face v1="226" v2="227" v3="228"></face>
+        <face v1="228" v2="229" v3="226"></face>
+        <face v1="224" v2="229" v3="228"></face>
+        <face v1="228" v2="225" v3="224"></face>
+        <face v1="226" v2="229" v3="230"></face>
+        <face v1="230" v2="231" v3="226"></face>
+        <face v1="161" v2="231" v3="230"></face>
+        <face v1="230" v2="160" v3="161"></face>
+        <face v1="156" v2="160" v3="230"></face>
+        <face v1="230" v2="232" v3="156"></face>
+        <face v1="224" v2="232" v3="230"></face>
+        <face v1="230" v2="229" v3="224"></face>
+        <face v1="156" v2="232" v3="233"></face>
+        <face v1="233" v2="155" v3="156"></face>
+        <face v1="139" v2="155" v3="233"></face>
+        <face v1="233" v2="217" v3="139"></face>
+        <face v1="212" v2="217" v3="233"></face>
+        <face v1="233" v2="222" v3="212"></face>
+        <face v1="224" v2="222" v3="233"></face>
+        <face v1="233" v2="232" v3="224"></face>
+        <face v1="226" v2="234" v3="235"></face>
+        <face v1="235" v2="227" v3="226"></face>
+        <face v1="236" v2="237" v3="235"></face>
+        <face v1="235" v2="234" v3="236"></face>
+        <face v1="238" v2="239" v3="240"></face>
+        <face v1="240" v2="241" v3="238"></face>
+        <face v1="236" v2="241" v3="240"></face>
+        <face v1="240" v2="237" v3="236"></face>
+        <face v1="238" v2="241" v3="242"></face>
+        <face v1="242" v2="243" v3="238"></face>
+        <face v1="177" v2="243" v3="242"></face>
+        <face v1="242" v2="176" v3="177"></face>
+        <face v1="173" v2="176" v3="242"></face>
+        <face v1="242" v2="244" v3="173"></face>
+        <face v1="236" v2="244" v3="242"></face>
+        <face v1="242" v2="241" v3="236"></face>
+        <face v1="173" v2="244" v3="245"></face>
+        <face v1="245" v2="192" v3="173"></face>
+        <face v1="161" v2="192" v3="245"></face>
+        <face v1="245" v2="231" v3="161"></face>
+        <face v1="226" v2="231" v3="245"></face>
+        <face v1="245" v2="234" v3="226"></face>
+        <face v1="236" v2="234" v3="245"></face>
+        <face v1="245" v2="244" v3="236"></face>
+        <face v1="238" v2="246" v3="247"></face>
+        <face v1="247" v2="239" v3="238"></face>
+        <face v1="248" v2="249" v3="247"></face>
+        <face v1="247" v2="246" v3="248"></face>
+        <face v1="209" v2="208" v3="250"></face>
+        <face v1="250" v2="251" v3="209"></face>
+        <face v1="248" v2="251" v3="250"></face>
+        <face v1="250" v2="249" v3="248"></face>
+        <face v1="209" v2="251" v3="252"></face>
+        <face v1="252" v2="220" v3="209"></face>
+        <face v1="252" v2="196" v3="132"></face>
+        <face v1="193" v2="196" v3="252"></face>
+        <face v1="252" v2="253" v3="193"></face>
+        <face v1="248" v2="253" v3="252"></face>
+        <face v1="252" v2="251" v3="248"></face>
+        <face v1="193" v2="253" v3="254"></face>
+        <face v1="254" v2="206" v3="193"></face>
+        <face v1="177" v2="206" v3="254"></face>
+        <face v1="254" v2="243" v3="177"></face>
+        <face v1="238" v2="243" v3="254"></face>
+        <face v1="254" v2="246" v3="238"></face>
+        <face v1="248" v2="246" v3="254"></face>
+        <face v1="254" v2="253" v3="248"></face>
+      </faces>
+      <geometry vertexcount="255">
+        <vertexbuffer positions="true" normals="true">
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.268"></position>
+            <normal x="0.584" y="-0.806" z="0.102"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.269"></position>
+            <normal x="0.56" y="-0.82" z="0.116"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.269"></position>
+            <normal x="0.809" y="-0.578" z="0.104"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.268"></position>
+            <normal x="0.818" y="-0.567" z="0.099"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.27"></position>
+            <normal x="0.535" y="-0.844" z="0.036"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.27"></position>
+            <normal x="0.806" y="-0.592" z="0.015"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.024" z="-0.27"></position>
+            <normal x="0.932" y="-0.363" z="0.001"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.024" z="-0.269"></position>
+            <normal x="0.924" y="-0.372" z="0.094"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.024" z="-0.268"></position>
+            <normal x="0.926" y="-0.37" z="0.083"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.023" z="-0.27"></position>
+            <normal x="0.996" y="-0.091" z="-0.008"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.269"></position>
+            <normal x="0.991" y="-0.116" z="0.066"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.27"></position>
+            <normal x="0.947" y="0.322" z="-0.01"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.268"></position>
+            <normal x="0.954" y="0.3" z="0.029"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.267"></position>
+            <normal x="0.956" y="0.294" z="0.015"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.267"></position>
+            <normal x="0.99" y="-0.128" z="0.06"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.266"></position>
+            <normal x="0.946" y="0.319" z="-0.064"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.266"></position>
+            <normal x="0.994" y="-0.096" z="-0.053"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.265"></position>
+            <normal x="0.907" y="0.405" z="-0.112"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.265"></position>
+            <normal x="0.99" y="-0.039" z="-0.135"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.024" z="-0.266"></position>
+            <normal x="0.94" y="-0.311" z="-0.138"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.024" z="-0.267"></position>
+            <normal x="0.936" y="-0.351" z="-0.036"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.266"></position>
+            <normal x="0.841" y="-0.525" z="-0.133"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.267"></position>
+            <normal x="0.831" y="-0.555" z="-0.03"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.025" z="-0.266"></position>
+            <normal x="0.583" y="-0.807" z="-0.097"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.025" z="-0.267"></position>
+            <normal x="0.601" y="-0.8" z="-0.003"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.268"></position>
+            <normal x="0.685" y="0.728" z="0.0"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.266"></position>
+            <normal x="0.68" y="0.733" z="-0.018"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.269"></position>
+            <normal x="0.679" y="0.734" z="-0.003"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.268"></position>
+            <normal x="0.315" y="0.949" z="0.016"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.267"></position>
+            <normal x="0.305" y="0.952" z="-0.002"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.266"></position>
+            <normal x="0.293" y="0.956" z="0.0"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.268"></position>
+            <normal x="-0.077" y="0.996" z="0.048"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.266"></position>
+            <normal x="-0.101" y="0.994" z="0.037"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.02" z="-0.267"></position>
+            <normal x="-0.522" y="0.847" z="0.1"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.02" z="-0.266"></position>
+            <normal x="-0.536" y="0.839" z="0.1"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.265"></position>
+            <normal x="-0.559" y="0.818" z="0.135"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.265"></position>
+            <normal x="-0.122" y="0.991" z="0.051"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.263"></position>
+            <normal x="-0.566" y="0.798" z="0.208"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.264"></position>
+            <normal x="-0.128" y="0.986" z="0.105"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.262"></position>
+            <normal x="-0.577" y="0.775" z="0.256"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.263"></position>
+            <normal x="-0.173" y="0.974" z="0.147"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.263"></position>
+            <normal x="0.239" y="0.97" z="0.044"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.264"></position>
+            <normal x="0.28" y="0.96" z="0.012"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.264"></position>
+            <normal x="0.61" y="0.791" z="-0.045"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.265"></position>
+            <normal x="0.666" y="0.745" z="-0.044"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.022" z="-0.267"></position>
+            <normal x="-0.959" y="0.231" z="0.165"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.023" z="-0.268"></position>
+            <normal x="-0.983" y="-0.056" z="0.174"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.023" z="-0.266"></position>
+            <normal x="-0.981" y="-0.057" z="0.184"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.022" z="-0.266"></position>
+            <normal x="-0.958" y="0.221" z="0.182"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.025" z="-0.268"></position>
+            <normal x="-0.91" y="-0.38" z="0.164"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.024" z="-0.267"></position>
+            <normal x="-0.91" y="-0.376" z="0.173"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.024" z="-0.266"></position>
+            <normal x="-0.903" y="-0.378" z="0.204"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.023" z="-0.265"></position>
+            <normal x="-0.972" y="-0.07" z="0.226"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.022" z="-0.265"></position>
+            <normal x="-0.954" y="0.2" z="0.222"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.024" z="-0.264"></position>
+            <normal x="-0.881" y="-0.394" z="0.261"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.023" z="-0.264"></position>
+            <normal x="-0.952" y="-0.097" z="0.291"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.024" z="-0.263"></position>
+            <normal x="-0.879" y="-0.371" z="0.3"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.023" z="-0.263"></position>
+            <normal x="-0.938" y="-0.096" z="0.333"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.022" z="-0.262"></position>
+            <normal x="-0.928" y="0.163" z="0.336"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.022" z="-0.264"></position>
+            <normal x="-0.941" y="0.166" z="0.296"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.021" z="-0.262"></position>
+            <normal x="-0.839" y="0.441" z="0.318"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.021" z="-0.263"></position>
+            <normal x="-0.845" y="0.46" z="0.272"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.021" z="-0.265"></position>
+            <normal x="-0.846" y="0.494" z="0.198"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.021" z="-0.266"></position>
+            <normal x="-0.841" y="0.518" z="0.153"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.021" z="-0.267"></position>
+            <normal x="-0.832" y="0.536" z="0.143"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.026" z="-0.269"></position>
+            <normal x="-0.361" y="-0.926" z="0.11"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.27"></position>
+            <normal x="0.082" y="-0.994" z="0.073"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.268"></position>
+            <normal x="0.122" y="-0.985" z="0.122"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.026" z="-0.268"></position>
+            <normal x="-0.352" y="-0.928" z="0.125"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.267"></position>
+            <normal x="0.154" y="-0.982" z="0.11"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.267"></position>
+            <normal x="-0.33" y="-0.934" z="0.134"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.266"></position>
+            <normal x="0.156" y="-0.987" z="0.044"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.265"></position>
+            <normal x="0.121" y="-0.993" z="-0.001"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.265"></position>
+            <normal x="-0.372" y="-0.92" z="0.126"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.025" z="-0.264"></position>
+            <normal x="-0.698" y="-0.678" z="0.229"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.025" z="-0.265"></position>
+            <normal x="-0.679" y="-0.707" z="0.197"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.266"></position>
+            <normal x="-0.327" y="-0.938" z="0.116"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.025" z="-0.266"></position>
+            <normal x="-0.699" y="-0.696" z="0.164"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.025" z="-0.267"></position>
+            <normal x="-0.701" y="-0.697" z="0.148"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.025" z="-0.269"></position>
+            <normal x="-0.701" y="-0.7" z="0.139"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.272"></position>
+            <normal x="0.523" y="-0.849" z="-0.076"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.273"></position>
+            <normal x="0.561" y="-0.824" z="-0.078"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.274"></position>
+            <normal x="0.811" y="-0.572" z="-0.12"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.273"></position>
+            <normal x="0.801" y="-0.586" z="-0.122"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.024" z="-0.273"></position>
+            <normal x="0.93" y="-0.341" z="-0.137"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.024" z="-0.274"></position>
+            <normal x="0.934" y="-0.328" z="-0.14"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.272"></position>
+            <normal x="0.929" y="0.362" z="-0.081"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.272"></position>
+            <normal x="0.99" y="-0.058" z="-0.129"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.022" z="-0.274"></position>
+            <normal x="0.99" y="-0.056" z="-0.132"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.021" z="-0.273"></position>
+            <normal x="0.933" y="0.348" z="-0.088"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.021" z="-0.271"></position>
+            <normal x="0.935" y="0.349" z="-0.059"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.023" z="-0.271"></position>
+            <normal x="0.993" y="-0.068" z="-0.094"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.122" y="-0.024" z="-0.271"></position>
+            <normal x="0.93" y="-0.352" z="-0.101"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.025" z="-0.271"></position>
+            <normal x="0.801" y="-0.592" z="-0.089"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.026" z="-0.271"></position>
+            <normal x="0.514" y="-0.856" z="-0.05"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.273"></position>
+            <normal x="0.675" y="0.738" z="-0.014"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.272"></position>
+            <normal x="0.656" y="0.754" z="-0.007"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.271"></position>
+            <normal x="0.298" y="0.953" z="0.047"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.272"></position>
+            <normal x="0.313" y="0.948" z="0.05"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.02" z="-0.27"></position>
+            <normal x="-0.528" y="0.84" z="0.125"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.271"></position>
+            <normal x="-0.094" y="0.992" z="0.088"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.019" z="-0.272"></position>
+            <normal x="-0.074" y="0.993" z="0.092"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.02" z="-0.272"></position>
+            <normal x="-0.528" y="0.84" z="0.126"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.02" z="-0.269"></position>
+            <normal x="-0.517" y="0.849" z="0.113"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.02" z="-0.269"></position>
+            <normal x="-0.081" y="0.994" z="0.071"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.124" y="-0.02" z="-0.27"></position>
+            <normal x="0.313" y="0.949" z="0.033"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.123" y="-0.02" z="-0.27"></position>
+            <normal x="0.666" y="0.746" z="-0.009"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.021" z="-0.271"></position>
+            <normal x="-0.838" y="0.526" z="0.143"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.021" z="-0.27"></position>
+            <normal x="-0.834" y="0.533" z="0.143"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.022" z="-0.27"></position>
+            <normal x="-0.96" y="0.236" z="0.152"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.128" y="-0.022" z="-0.271"></position>
+            <normal x="-0.965" y="0.221" z="0.143"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.025" z="-0.271"></position>
+            <normal x="-0.914" y="-0.377" z="0.147"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.128" y="-0.023" z="-0.27"></position>
+            <normal x="-0.987" y="-0.047" z="0.153"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.128" y="-0.023" z="-0.272"></position>
+            <normal x="-0.987" y="-0.065" z="0.144"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.128" y="-0.025" z="-0.272"></position>
+            <normal x="-0.902" y="-0.409" z="0.138"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.025" z="-0.269"></position>
+            <normal x="-0.91" y="-0.382" z="0.162"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.023" z="-0.269"></position>
+            <normal x="-0.984" y="-0.052" z="0.168"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.022" z="-0.269"></position>
+            <normal x="-0.958" y="0.237" z="0.162"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.021" z="-0.269"></position>
+            <normal x="-0.831" y="0.537" z="0.147"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.026" z="-0.272"></position>
+            <normal x="-0.677" y="-0.728" z="0.11"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.026" z="-0.271"></position>
+            <normal x="-0.704" y="-0.699" z="0.122"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.026" z="-0.272"></position>
+            <normal x="-0.373" y="-0.925" z="0.071"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.026" z="-0.273"></position>
+            <normal x="-0.319" y="-0.946" z="0.064"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.272"></position>
+            <normal x="0.067" y="-0.998" z="-0.001"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.273"></position>
+            <normal x="0.118" y="-0.993" z="-0.008"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.125" y="-0.026" z="-0.271"></position>
+            <normal x="0.064" y="-0.998" z="0.018"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.126" y="-0.026" z="-0.27"></position>
+            <normal x="-0.375" y="-0.923" z="0.086"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.127" y="-0.025" z="-0.27"></position>
+            <normal x="-0.702" y="-0.7" z="0.134"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.106" z="-0.226"></position>
+            <normal x="-0.828" y="0.295" z="-0.477"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.105" z="-0.226"></position>
+            <normal x="-0.646" y="0.575" z="-0.502"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.105" z="-0.227"></position>
+            <normal x="-0.657" y="0.565" z="-0.498"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.106" z="-0.227"></position>
+            <normal x="-0.844" y="0.274" z="-0.46"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.107" z="-0.228"></position>
+            <normal x="-0.825" y="0.217" z="-0.522"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.106" z="-0.228"></position>
+            <normal x="-0.628" y="0.525" z="-0.574"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.105" z="-0.228"></position>
+            <normal x="-0.437" y="0.703" z="-0.561"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.104" z="-0.227"></position>
+            <normal x="-0.486" y="0.727" z="-0.485"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.104" z="-0.225"></position>
+            <normal x="-0.479" y="0.725" z="-0.494"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.104" z="-0.226"></position>
+            <normal x="-0.257" y="0.857" z="-0.447"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.104" z="-0.227"></position>
+            <normal x="-0.201" y="0.843" z="-0.5"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.104" z="-0.226"></position>
+            <normal x="0.168" y="0.929" z="-0.33"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.103" z="-0.225"></position>
+            <normal x="0.129" y="0.942" z="-0.309"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.103" z="-0.224"></position>
+            <normal x="0.131" y="0.937" z="-0.324"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.103" z="-0.225"></position>
+            <normal x="-0.265" y="0.85" z="-0.455"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.103" z="-0.224"></position>
+            <normal x="-0.185" y="0.823" z="-0.537"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.223"></position>
+            <normal x="0.19" y="0.908" z="-0.374"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.102" z="-0.222"></position>
+            <normal x="0.293" y="0.884" z="-0.364"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.102" z="-0.223"></position>
+            <normal x="-0.096" y="0.808" z="-0.581"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.103" z="-0.224"></position>
+            <normal x="-0.328" y="0.677" z="-0.659"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.104" z="-0.224"></position>
+            <normal x="-0.409" y="0.698" z="-0.588"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.104" z="-0.225"></position>
+            <normal x="-0.578" y="0.543" z="-0.609"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.104" z="-0.224"></position>
+            <normal x="-0.505" y="0.525" z="-0.685"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.105" z="-0.224"></position>
+            <normal x="-0.737" y="0.222" z="-0.639"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.105" z="-0.225"></position>
+            <normal x="-0.776" y="0.274" z="-0.568"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.103" z="-0.223"></position>
+            <normal x="0.566" y="0.822" z="-0.065"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.103" z="-0.224"></position>
+            <normal x="0.553" y="0.831" z="-0.054"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.104" z="-0.225"></position>
+            <normal x="0.56" y="0.827" z="-0.052"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.104" z="-0.224"></position>
+            <normal x="0.786" y="0.582" z="0.209"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.104" z="-0.223"></position>
+            <normal x="0.799" y="0.567" z="0.201"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.103" z="-0.222"></position>
+            <normal x="0.802" y="0.559" z="0.209"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.104" z="-0.222"></position>
+            <normal x="0.868" y="0.238" z="0.435"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.105" z="-0.223"></position>
+            <normal x="0.862" y="0.264" z="0.433"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.106" z="-0.222"></position>
+            <normal x="0.763" y="-0.154" z="0.627"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.105" z="-0.221"></position>
+            <normal x="0.757" y="-0.17" z="0.63"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.104" z="-0.22"></position>
+            <normal x="0.726" y="-0.183" z="0.663"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.104" z="-0.221"></position>
+            <normal x="0.862" y="0.225" z="0.455"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.103" z="-0.22"></position>
+            <normal x="0.833" y="0.237" z="0.5"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.104" z="-0.22"></position>
+            <normal x="0.675" y="-0.17" z="0.718"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.103" z="-0.219"></position>
+            <normal x="0.635" y="-0.169" z="0.754"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.219"></position>
+            <normal x="0.808" y="0.208" z="0.551"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.22"></position>
+            <normal x="0.801" y="0.532" z="0.275"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.221"></position>
+            <normal x="0.801" y="0.554" z="0.226"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.222"></position>
+            <normal x="0.59" y="0.804" z="-0.075"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.102" z="-0.221"></position>
+            <normal x="0.638" y="0.769" z="-0.034"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.107" z="-0.223"></position>
+            <normal x="0.248" y="-0.709" z="0.66"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.107" z="-0.222"></position>
+            <normal x="0.23" y="-0.706" z="0.67"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.107" z="-0.222"></position>
+            <normal x="-0.012" y="-0.813" z="0.582"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.108" z="-0.223"></position>
+            <normal x="-0.005" y="-0.818" z="0.575"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.108" z="-0.224"></position>
+            <normal x="-0.295" y="-0.86" z="0.416"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.108" z="-0.223"></position>
+            <normal x="-0.295" y="-0.856" z="0.425"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.222"></position>
+            <normal x="-0.313" y="-0.838" z="0.446"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.107" z="-0.221"></position>
+            <normal x="-0.044" y="-0.793" z="0.607"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.106" z="-0.221"></position>
+            <normal x="0.193" y="-0.695" z="0.693"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.106" z="-0.22"></position>
+            <normal x="-0.1" y="-0.761" z="0.641"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.106" z="-0.221"></position>
+            <normal x="-0.355" y="-0.804" z="0.476"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.106" z="-0.221"></position>
+            <normal x="-0.354" y="-0.78" z="0.516"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.105" z="-0.22"></position>
+            <normal x="-0.12" y="-0.734" z="0.669"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.105" z="-0.219"></position>
+            <normal x="0.105" y="-0.642" z="0.76"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.105" z="-0.22"></position>
+            <normal x="0.127" y="-0.666" z="0.735"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.105" z="-0.219"></position>
+            <normal x="0.384" y="-0.499" z="0.777"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.104" z="-0.219"></position>
+            <normal x="0.346" y="-0.483" z="0.805"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.105" z="-0.22"></position>
+            <normal x="0.449" y="-0.516" z="0.73"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.106" z="-0.221"></position>
+            <normal x="0.49" y="-0.52" z="0.7"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.106" z="-0.222"></position>
+            <normal x="0.509" y="-0.509" z="0.694"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.108" z="-0.226"></position>
+            <normal x="-0.818" y="-0.569" z="-0.077"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.225"></position>
+            <normal x="-0.828" y="-0.557" z="-0.071"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.226"></position>
+            <normal x="-0.936" y="-0.16" z="-0.313"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.227"></position>
+            <normal x="-0.917" y="-0.215" z="-0.337"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.106" z="-0.225"></position>
+            <normal x="-0.932" y="-0.135" z="-0.336"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.224"></position>
+            <normal x="-0.84" y="-0.537" z="-0.076"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.106" z="-0.224"></position>
+            <normal x="-0.906" y="-0.159" z="-0.392"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.105" z="-0.223"></position>
+            <normal x="-0.886" y="-0.207" z="-0.415"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.106" z="-0.223"></position>
+            <normal x="-0.819" y="-0.572" z="-0.057"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.106" z="-0.223"></position>
+            <normal x="-0.836" y="-0.541" z="-0.093"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.022" y="-0.106" z="-0.222"></position>
+            <normal x="-0.626" y="-0.748" z="0.219"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.107" z="-0.223"></position>
+            <normal x="-0.599" y="-0.774" z="0.205"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.021" y="-0.108" z="-0.224"></position>
+            <normal x="-0.592" y="-0.782" z="0.193"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.108" z="-0.225"></position>
+            <normal x="-0.59" y="-0.786" z="0.185"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.107" z="-0.23"></position>
+            <normal x="-0.549" y="0.488" z="-0.679"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.108" z="-0.23"></position>
+            <normal x="-0.758" y="0.204" z="-0.619"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.108" z="-0.229"></position>
+            <normal x="-0.776" y="0.163" z="-0.609"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.106" z="-0.229"></position>
+            <normal x="-0.353" y="0.659" z="-0.663"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.106" z="-0.23"></position>
+            <normal x="-0.341" y="0.666" z="-0.663"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.105" z="-0.228"></position>
+            <normal x="0.238" y="0.9" z="-0.364"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.105" z="-0.229"></position>
+            <normal x="0.229" y="0.897" z="-0.377"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.106" z="-0.23"></position>
+            <normal x="-0.113" y="0.803" z="-0.585"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.105" z="-0.229"></position>
+            <normal x="-0.117" y="0.804" z="-0.583"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.105" z="-0.228"></position>
+            <normal x="-0.142" y="0.816" z="-0.56"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.104" z="-0.227"></position>
+            <normal x="0.216" y="0.91" z="-0.355"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.105" z="-0.229"></position>
+            <normal x="-0.38" y="0.669" z="-0.639"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.106" z="-0.229"></position>
+            <normal x="-0.579" y="0.484" z="-0.656"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.107" z="-0.228"></position>
+            <normal x="-0.793" y="0.163" z="-0.587"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.107" z="-0.23"></position>
+            <normal x="-0.559" y="0.474" z="-0.681"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.105" z="-0.227"></position>
+            <normal x="0.583" y="0.812" z="-0.037"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.105" z="-0.228"></position>
+            <normal x="0.569" y="0.821" z="-0.058"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.105" z="-0.226"></position>
+            <normal x="0.778" y="0.579" z="0.244"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.106" z="-0.227"></position>
+            <normal x="0.77" y="0.592" z="0.237"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.107" z="-0.224"></position>
+            <normal x="0.746" y="-0.153" z="0.648"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.108" z="-0.225"></position>
+            <normal x="0.745" y="-0.153" z="0.649"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.107" z="-0.226"></position>
+            <normal x="0.838" y="0.281" z="0.467"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.014" y="-0.106" z="-0.225"></position>
+            <normal x="0.842" y="0.262" z="0.472"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.105" z="-0.224"></position>
+            <normal x="0.85" y="0.269" z="0.453"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.106" z="-0.223"></position>
+            <normal x="0.758" y="-0.145" z="0.636"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.105" z="-0.225"></position>
+            <normal x="0.778" y="0.586" z="0.225"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.104" z="-0.226"></position>
+            <normal x="0.575" y="0.817" z="-0.046"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.108" z="-0.224"></position>
+            <normal x="0.507" y="-0.512" z="0.694"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.015" y="-0.109" z="-0.225"></position>
+            <normal x="0.501" y="-0.518" z="0.693"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.109" z="-0.224"></position>
+            <normal x="0.258" y="-0.713" z="0.652"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.109" z="-0.226"></position>
+            <normal x="0.249" y="-0.725" z="0.642"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.11" z="-0.226"></position>
+            <normal x="-0.284" y="-0.869" z="0.406"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.11" z="-0.227"></position>
+            <normal x="-0.309" y="-0.871" z="0.381"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.11" z="-0.226"></position>
+            <normal x="0.001" y="-0.836" z="0.549"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.109" z="-0.225"></position>
+            <normal x="0.012" y="-0.826" z="0.563"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.109" z="-0.224"></position>
+            <normal x="0.0" y="-0.82" z="0.572"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.109" z="-0.225"></position>
+            <normal x="-0.295" y="-0.861" z="0.414"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.017" y="-0.108" z="-0.224"></position>
+            <normal x="0.254" y="-0.708" z="0.659"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.016" y="-0.107" z="-0.223"></position>
+            <normal x="0.508" y="-0.507" z="0.696"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.11" z="-0.227"></position>
+            <normal x="-0.582" y="-0.795" z="0.173"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.018" y="-0.11" z="-0.228"></position>
+            <normal x="-0.604" y="-0.784" z="0.14"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.109" z="-0.228"></position>
+            <normal x="-0.798" y="-0.594" z="-0.104"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.11" z="-0.229"></position>
+            <normal x="-0.819" y="-0.556" z="-0.142"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.019" y="-0.109" z="-0.23"></position>
+            <normal x="-0.883" y="-0.213" z="-0.419"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.109" z="-0.229"></position>
+            <normal x="-0.884" y="-0.257" z="-0.391"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.108" z="-0.228"></position>
+            <normal x="-0.892" y="-0.252" z="-0.374"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.109" z="-0.227"></position>
+            <normal x="-0.802" y="-0.59" z="-0.089"></normal>
+          </vertex>
+          <vertex>
+            <position x="-0.02" y="-0.109" z="-0.226"></position>
+            <normal x="-0.587" y="-0.789" z="0.181"></normal>
+          </vertex>
+        </vertexbuffer>
+      </geometry>
+    </submesh>
+  </submeshes>
+</mesh>

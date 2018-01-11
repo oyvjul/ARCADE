@@ -1,0 +1,34 @@
+<mesh>
+  <submeshes>
+    <submesh material="Material.1" usesharedvertices="false">
+      <faces count="6">
+        <face v1="0" v2="1" v3="2"></face>
+        <face v1="2" v2="3" v3="0"></face>
+      </faces>
+      <geometry vertexcount="4">
+        <vertexbuffer positions="true" normals="true" texture_coords="1">
+          <vertex>
+            <position x="0.073" y="0.047" z="0.1"></position>
+            <normal x="0.0" y="1.0" z="0.0"></normal>
+            <texcoord u="1.0" v="1.0"></texcoord>
+          </vertex>
+          <vertex>
+            <position x="0.073" y="0.047" z="-0.1"></position>
+            <normal x="0.0" y="1.0" z="0.0"></normal>
+            <texcoord u="1.0" v="0.0"></texcoord>
+          </vertex>
+          <vertex>
+            <position x="-0.073" y="0.047" z="-0.1"></position>
+            <normal x="0.0" y="1.0" z="0.0"></normal>
+            <texcoord u="0.0" v="0.0"></texcoord>
+          </vertex>
+          <vertex>
+            <position x="-0.073" y="0.047" z="0.1"></position>
+            <normal x="0.0" y="1.0" z="0.0"></normal>
+            <texcoord u="0.0" v="1.0"></texcoord>
+          </vertex>
+        </vertexbuffer>
+      </geometry>
+    </submesh>
+  </submeshes>
+</mesh>

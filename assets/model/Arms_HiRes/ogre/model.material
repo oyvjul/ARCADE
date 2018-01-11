@@ -1,0 +1,350 @@
+material Material.1
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.5882 0.5882 0.5882 1.0
+   diffuse 0.5882 0.5882 0.5882 1.0
+   specular 0.135 0.135 0.135 1.0 27.8605
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+   texture_unit
+   {
+      texture texture1.png
+      filtering linear linear linear
+   }
+}
+}
+}
+
+material Material.2
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.5882 0.5882 0.5882 1.0
+   diffuse 0.5882 0.5882 0.5882 1.0
+   specular 0.0 0.0 0.0 1.0 19.414999
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+   texture_unit
+   {
+      texture texture2.png
+      filtering linear linear linear
+   }
+}
+}
+}
+
+material Material.3
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.4
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.5
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.6
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.7
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.8
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.9
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.10
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.11
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.20
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.14
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.15
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.12
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.13
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.18
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.19
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.16
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+
+material Material.17
+{
+receive_shadows on
+technique
+{
+pass
+{
+   ambient 0.16106936 0.15979193 0.15916131 1.0
+   diffuse 0.9961 0.9882 0.9843 1.0
+   specular 0.0 0.0 0.0 1.0 9.401051
+   emissive 0.0 0.0 0.0 1.0
+   normalise_normals on
+   cull_hardware clockwise
+}
+}
+}
+

@@ -1,0 +1,148 @@
+<scene formatVersion="1.0.0">
+  <nodes>
+    <node name="iPad2-56">
+      <position x="0.0" y="0.2028" z="0.1881"></position>
+      <quaternion x="0.15304373" y="0.6904696" z="0.15304373" w="0.6902224"></quaternion>
+      <scale x="1.658" y="1.658" z="1.658"></scale>
+      <node name="Object-57">
+        <position x="0.0" y="-0.004691" z="0.0"></position>
+        <quaternion x="0.0" y="0.0" z="0.0" w="1.0"></quaternion>
+        <scale x="1.0" y="0.1876" z="1.0"></scale>
+        <entity name="Object-57_0_0" meshFile="Object-57_0_0.mesh"></entity>
+      </node>
+      <node name="ChamferBox002-58">
+        <position x="0.0" y="-0.004691" z="0.0"></position>
+        <quaternion x="0.0" y="0.0" z="0.0" w="1.0"></quaternion>
+        <scale x="1.0" y="0.1876" z="1.0"></scale>
+        <entity name="ChamferBox002-58_0_0" meshFile="ChamferBox002-58_0_0.mesh"></entity>
+      </node>
+    </node>
+    <node name="Group001-71">
+      <position x="-0.1884" y="0.4357" z="0.04085"></position>
+      <quaternion x="0.0" y="0.0" z="0.0" w="1.0"></quaternion>
+      <scale x="1.0" y="1.0" z="1.0"></scale>
+      <node name="VIFS036-38">
+        <position x="0.2529" y="-0.7438" z="0.6503"></position>
+        <quaternion x="0.45468688" y="-0.10020414" z="0.25480935" w="0.8475206"></quaternion>
+        <scale x="2.517" y="2.517" z="2.517"></scale>
+        <entity name="VIFS036-38_0_0" meshFile="VIFS036-38_0_0.mesh"></entity>
+      </node>
+      <node name="VIFS035-37">
+        <position x="0.2733" y="-1.086" z="-0.07081"></position>
+        <quaternion x="0.7071788" y="0.0" z="0.0" w="0.70703477"></quaternion>
+        <scale x="2.517" y="2.517" z="2.517"></scale>
+        <entity name="VIFS035-37_0_0" meshFile="VIFS035-37_0_0.mesh"></entity>
+      </node>
+      <node name="RHand-63">
+        <position x="0.0" y="-0.2297" z="0.09934"></position>
+        <quaternion x="-0.13624714" y="-0.14287394" z="0.3231231" w="0.9255351"></quaternion>
+        <scale x="2.517" y="2.517" z="2.517"></scale>
+        <node name="VIFS052-54">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS052-54_0_0" meshFile="VIFS052-54_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS049-51">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS049-51_0_0" meshFile="VIFS049-51_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS048-50">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS048-50_0_0" meshFile="VIFS048-50_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS047-49">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS047-49_0_0" meshFile="VIFS047-49_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS046-48">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS046-48_0_0" meshFile="VIFS046-48_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS045-47">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS045-47_0_0" meshFile="VIFS045-47_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS044-46">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS044-46_0_0" meshFile="VIFS044-46_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS051-53">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS051-53_0_0" meshFile="VIFS051-53_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS040-42">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS040-42_0_0" meshFile="VIFS040-42_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS039-41">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS039-41_0_0" meshFile="VIFS039-41_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS038-40">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS038-40_0_0" meshFile="VIFS038-40_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS050-52">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS050-52_0_0" meshFile="VIFS050-52_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS041-43">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS041-43_0_0" meshFile="VIFS041-43_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS043-45">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS043-45_0_0" meshFile="VIFS043-45_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS037-39">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS037-39_0_0" meshFile="VIFS037-39_0_0.mesh"></entity>
+        </node>
+        <node name="VIFS042-44">
+          <position x="0.1153" y="-0.244" z="0.1594"></position>
+          <quaternion x="0.49991447" y="0.0" z="0.0" w="0.8660748"></quaternion>
+          <scale x="1.0" y="1.0" z="1.0"></scale>
+          <entity name="VIFS042-44_0_0" meshFile="VIFS042-44_0_0.mesh"></entity>
+        </node>
+      </node>
+    </node>
+  </nodes>
+  <externals>
+    <item type="material">
+      <file name="model.material"></file>
+    </item>
+  </externals>
+  <environment>
+    <colourAmbient r="0.0" g="0.0" b="0.0"></colourAmbient>
+    <colourBackground r="0.05" g="0.22" b="0.4"></colourBackground>
+  </environment>
+</scene>
